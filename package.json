@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/doo1y/2084/issues"
   },
-  "homepage": "https://github.com/doo1y/2084#readme"
+  "homepage": "https://github.com/doo1y/2084#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.71.7"
+  }
 }
